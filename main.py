@@ -45,11 +45,11 @@ def get_weather(city):
 
 def goodbye_message():
     messages = [
-        "Catch you later Bitch!Stay awesome, and take care !",
-        "Goodbye for now Fucker! and Keep the vibes High!",
-        "take it easy cunt , and stay fresh out there!",
-        "I'll see you next time Asshole. Until then, stay cool!",
-        "Time to bounce! , Keep shining motherfucker!"
+        "Catch you later !Stay awesome, and take care !",
+        "Goodbye for now ! and Keep the vibes High!",
+        "take it easy bro , and stay fresh out there!",
+        "I'll see you next time buddy. Until then, stay cool!",
+        "Time to bounce! , Keep shining champ!"
     ]
     return random.choices(messages)
 
